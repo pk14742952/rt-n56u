@@ -1,5 +1,5 @@
-SRC_NAME = htop-2.2.0
-SRC_URL = https://github.com/pk14742952/rt-n56u/blob/master/trunk/user/htop/htop-3.0.2%20.tar.gz
+SRC_NAME = htop-3.0.2
+SRC_URL = https://bintray.com/htop/source/download_file?file_path=htop-3.0.2.tar.gz
 THISDIR = $(shell pwd)
 
 all: download_test extract_test config_test
